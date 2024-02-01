@@ -131,7 +131,7 @@
                         <nav class="navigation closed clearfix">
                             <a href="#" class="menu-toggle-close btn"><i class="fa fa-times"></i></a>
                             <ul class="nav sf-menu">
-                                <li><a href="index-2.html">Homepage</a>
+                                <li><a href="index.php">Homepage</a>
                                     <ul>
                                         <li><a href="index-2.html">Homepage 1</a></li>
                                         <li><a href="index-3.html">Homepage 2</a></li>
