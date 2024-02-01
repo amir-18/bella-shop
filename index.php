@@ -89,8 +89,8 @@
             <!-- /Popup: Shopping cart items -->
 
             <!-- Header top bar -->
-           <?php 
-           include"header.inc"
+           <?php
+           include "header.inc";
            ?>
             <!-- /Header top bar -->
 
