@@ -4,7 +4,7 @@
 
                         <!-- Logo -->
                         <div class="logo">
-                            <a href="index-2.html"><img src="assets/img/logo-bella-shop.png" alt="Bella Shop"/></a>
+                            <a href="index-2.html">Amir</a>
                         </div>
                         <!-- /Logo -->
 
